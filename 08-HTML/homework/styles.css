@@ -1,0 +1,31 @@
+body {
+    background-image: "https://www.ambito.com/finanzas/criptomonedas/venden-como-nft-doge-el-meme-dogecoin-n5200056";
+}
+
+h1 {
+    color: steelblue;
+}
+
+img {
+    width: 400px;
+}
+
+.divClass {
+    display: flex;
+    justify-content: center;
+}
+
+#thirdDiv {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 500px;
+    background-color: slategray;
+    padding: 50px;
+    border: 20px slateblue;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
